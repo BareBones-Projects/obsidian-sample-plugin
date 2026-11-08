@@ -1,3 +1,5 @@
+![obsidian-sample-plugin social preview](assets/social-preview.svg)
+
 # Obsidian Sample Plugin
 
 This is a sample plugin for Obsidian (https://obsidian.md).
@@ -90,3 +92,7 @@ If you have multiple URLs, you can also do:
 ## API Documentation
 
 See https://docs.obsidian.md
+
+
+---
+BareBones Projects, Designed by: Justin Levesque-Welsch
